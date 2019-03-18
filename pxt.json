@@ -1,7 +1,7 @@
 {
-    "name": "motor",
+    "name": "Motor aansturing",
     "version": "0.0.1",
-    "description": "This is dc motor, stepper motor, steering gear library.",
+    "description": "Uitbreiding om servo-, stappen- en dc-motoren aan te sturen. O.a. voor een Robotarm",
     "license": "GNU",
     "dependencies": {
         "core": "*",
